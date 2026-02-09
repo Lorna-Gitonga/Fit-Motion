@@ -1,3 +1,3 @@
 # Fitness Tracker
- Aweb-based fitness tracker that logs workouts history and tracks progress.
 
+A web-based fitness tracker that logs workouts history and tracks progress.
